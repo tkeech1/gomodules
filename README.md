@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/tkeech1/gomodules.svg?style=svg)](https://circleci.com/gh/tkeech1/gomodules)
+
 This repository was created for a Medium post on [Go Modules and CircleCI](https://medium.com/@toddkeech/go-modules-and-circleci-c0d6fac0b000). It shows an example of Go module builds in CircleCI. 
 
 ### Running the Example
